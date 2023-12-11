@@ -1,0 +1,27 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/my_image.jpg"
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/johnbarronmd
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/john-barron-03685972/
+    - icon: envelope
+      text: Email
+      href: "mailto:mail.jobarron9@gmail.com"  
+---
+
+::: {#about-block}
+:::
+
+# Biography
+
+John is a General Surgery resident and Thoracic Surgery research fellow at the Cleveland Clinic, as well as a student at Case Western Reserve University, where he's completing a Master of Science in Clinical Research through the Clinical Research Scholars Program.
+
+Some of his interests pertain to esophageal surgery, video-based surgical education, and lung transplantation. His current research, under the mentorship of Siva Raja, MD, aims to better understand long-term clinical outcomes following myotomy for esophageal achalasia, with a particular focus of the role of esophageal morphology on outcomes.
+
+Please feel free to [contact him](mailto:mail.jobarron9@gmail.com.com) by email.

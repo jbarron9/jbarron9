@@ -1,0 +1,24 @@
+---
+title: "Outside of Work"
+---
+
+I grew up in St. Louis, MO as the oldest of five. Outside of work, a few of my hobbies include playing pick-up soccer, working out, and spending time with my wife and family. Recently, I've picked up tennis and pickleball. Here are a few photos from recent trips to India and Spain. 
+
+::: {layout-ncol=2}
+
+
+![](IMG_0502.jpeg)
+Rajasthan, India, with my wife 
+
+![](IMG_1431.jpeg) 
+Late night churros at San Gines chocolateria in Madrid
+
+![](IMG_0461.jpeg)
+Rambagh Palace, Jaipur
+
+![](IMG_1590.jpeg)
+Real Alcázar, Sevilla. Very similar to India! 
+
+![](IMG_1491.jpeg)
+Plaza de España, Sevilla
+:::
