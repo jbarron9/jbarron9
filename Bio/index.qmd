@@ -1,24 +1,19 @@
 ---
-title: "Outside of Work"
+title: "Biography"
 ---
 
-I grew up in St. Louis, MO as the oldest of five. Outside of work, a few of my hobbies include playing pick-up soccer, working out, and spending time with my wife and family. Recently, I've picked up tennis and pickleball. Here are a few photos from recent trips to India and Spain. 
+John is a General Surgery resident and Thoracic Surgery research fellow at the Cleveland Clinic, as well as a student at Case Western Reserve University, where he’s completing a Master of Science in Clinical Research through the Clinical Research Scholars Program.
+
+Some of his interests pertain to esophageal surgery, video-based surgical education, and lung transplantation. His current research, under the mentorship of Siva Raja, MD, aims to better understand long-term clinical outcomes following myotomy for esophageal achalasia, with a particular focus of the role of esophageal morphology on outcomes.
+
+
+---- 
+**Blog**
+
+29 April 2024
+
+This weekend I'm at a the AATS Annual Meeting in Toronto, and have seen several days worth of scientific presentations relating to various topics in thoracic surgery. While the material itself has been very high quality, some talks are, naturally, better than others. One common theme is that the best talks do not overwhelm the audience with huge amounts of barely legible information on each slide, ensuring the most important ideas are easily communicated. Other talks, even if the results are interesting, lose the audience due to excessive text or a multitude of small figures. This made me think back to Jeff Leek's points about presenting scientific work, and I tried to incorporate many of his suggestions when making my own slides. For example, I made sure to have a clear narrative, using a patient anecdote to ask a question, which would be conveniently answered by my results. Additionally I included my contact information, used large legible figures, and used chose large fonts with a dark background and light text. This will remain my approach for future presentations. 
 
 ::: {layout-ncol=2}
 
 
-![](IMG_0502.jpeg)
-Rajasthan, India, with my wife 
-
-![](IMG_1431.jpeg) 
-Late night churros at San Gines chocolateria in Madrid
-
-![](IMG_0461.jpeg)
-Rambagh Palace, Jaipur
-
-![](IMG_1590.jpeg)
-Real Alcázar, Sevilla. Very similar to India! 
-
-![](IMG_1491.jpeg)
-Plaza de España, Sevilla
-:::
